@@ -1,0 +1,38 @@
+/* Header */
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    padding: 15px;
+}
+
+/* Footer */
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Table styling */
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+/* Form styling */
+form {
+    margin: 20px;
+}
+label {
+    display: inline-block;
+    width: 120px;
+    margin-bottom: 8px;
+}
